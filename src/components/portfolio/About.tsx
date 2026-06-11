@@ -6,7 +6,7 @@ const timeline = [
   { year: "2024", title: "Machine Learning", desc: "Production ML pipelines, feature engineering, model deployment." },
   { year: "2024", title: "Deep Learning", desc: "PyTorch, CNNs, transformers — built first end-to-end DL systems." },
   { year: "2025", title: "Research Publication", desc: "AnantaNetra — peer-reviewed paper published in JETIR." },
-  { year: "2025", title: "LLM Post-Training Intern", desc: "RLHF concepts, preference data, evaluation & prompt engineering." },
+  { year: "2026", title: "LLM Post-Training Intern", desc: "RLHF concepts, preference data, evaluation & prompt engineering." },
   { year: "2026", title: "AI Engineer", desc: "Architecting AstraMind AgentOS — a universal AI agent platform." },
 ];
 
