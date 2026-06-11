@@ -14,7 +14,7 @@ const items = [
     icon: FlaskConical,
     role: "AI Internship",
     org: "Multiple AI Startups",
-    period: "2024 — 2025",
+    period: "2026",
     desc: "Shipped ML systems end-to-end — from data cleaning and feature engineering to model training, deployment and monitoring in production.",
     tags: ["Python", "Machine Learning", "Data Analysis", "Model Deployment"],
   },
