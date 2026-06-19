@@ -6,7 +6,7 @@ const items = [
     icon: Building2,
     role: "LLM Post-Training Intern",
     org: "Stealth · AI Research",
-    period: "2025 — Present",
+    period: "2026",
     desc: "Working on evaluation and fine-tuning pipelines for large language models. Building preference datasets, prompt-engineering rubrics and model behavior diagnostics.",
     tags: ["LLM Evaluation", "Prompt Engineering", "Preference Data", "RLHF Concepts", "Model Testing"],
   },
