@@ -38,7 +38,8 @@ export function Contact() {
               </a>
               <a
                 id="resume"
-                href="#"
+                href={resumeAsset.url}
+                download
                 className="inline-flex items-center gap-2 rounded-full border border-border bg-card/60 px-5 py-2.5 text-sm font-medium hover:border-primary/60"
               >
                 <FileDown size={14} /> Download Resume

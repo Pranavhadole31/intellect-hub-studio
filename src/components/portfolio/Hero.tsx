@@ -95,7 +95,8 @@ export function Hero() {
                 <Sparkles size={16} /> View Projects
               </a>
               <a
-                href="#resume"
+                href={resumeAsset.url}
+                download
                 className="inline-flex items-center gap-2 rounded-full border border-border bg-card/60 px-6 py-3 text-sm font-medium text-foreground backdrop-blur transition-all hover:border-primary/60"
               >
                 <Download size={16} /> Download Resume
