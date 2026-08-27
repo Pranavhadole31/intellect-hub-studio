@@ -2,7 +2,7 @@ import { Section } from "./Section";
 import { Github, Linkedin, Mail, MapPin, FileDown } from "lucide-react";
 
 const channels = [
-  { icon: Mail, label: "Email", value: "pranav.hadole@example.com", href: "mailto:pranav.hadole@example.com" },
+  { icon: Mail, label: "Email", value: "hadolepranav12@gmail.com", href: "mailto:hadolepranav12@gmail.com" },
   { icon: Linkedin, label: "LinkedIn", value: "/in/pranavhadole", href: "#" },
   { icon: Github, label: "GitHub", value: "@pranavhadole", href: "#" },
   { icon: MapPin, label: "Location", value: "India · Open to remote", href: null },
