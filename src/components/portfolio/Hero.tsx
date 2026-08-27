@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { ArrowDown, Download, Sparkles } from "lucide-react";
 import heroBg from "@/assets/hero-bg.jpg";
-import profileAsset from "@/assets/profile.png.asset.json";
+import profileImage from "@/assets/Gemini_Generated_Image_2alt3g2alt3g2alt.png";
 import resumeAsset from "@/assets/PRANAV_YOGESH_HADOLE_Resume.pdf.asset.json";
 
 const roles = ["AI Engineer", "Data Scientist", "Researcher", "LLM Builder"];
@@ -52,7 +52,7 @@ export function Hero() {
             <div className="relative">
               <div className="absolute -inset-1 rounded-full bg-gradient-to-tr from-primary/60 via-accent/40 to-primary/60 blur-lg" />
               <img
-                src={profileAsset.url}
+                src={profileImage}
                 alt="Pranav Hadole"
                 className="relative h-48 w-48 rounded-full border-2 border-border/60 object-cover shadow-2xl sm:h-56 sm:w-56 md:h-72 md:w-72"
               />
