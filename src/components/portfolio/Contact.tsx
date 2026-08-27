@@ -1,5 +1,6 @@
 import { Section } from "./Section";
 import { Github, Linkedin, Mail, MapPin, FileDown } from "lucide-react";
+import resumeAsset from "@/assets/PRANAV_YOGESH_HADOLE_Resume.pdf.asset.json";
 
 const channels = [
   { icon: Mail, label: "Email", value: "hadolepranav12@gmail.com", href: "mailto:hadolepranav12@gmail.com" },

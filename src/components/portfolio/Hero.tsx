@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import { ArrowDown, Download, Sparkles } from "lucide-react";
 import heroBg from "@/assets/hero-bg.jpg";
 import profileAsset from "@/assets/profile.png.asset.json";
+import resumeAsset from "@/assets/PRANAV_YOGESH_HADOLE_Resume.pdf.asset.json";
 
 const roles = ["AI Engineer", "Data Scientist", "Researcher", "LLM Builder"];
 
