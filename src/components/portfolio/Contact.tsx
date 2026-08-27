@@ -4,7 +4,7 @@ import { Github, Linkedin, Mail, MapPin, FileDown } from "lucide-react";
 const channels = [
   { icon: Mail, label: "Email", value: "hadolepranav12@gmail.com", href: "mailto:hadolepranav12@gmail.com" },
   { icon: Linkedin, label: "LinkedIn", value: "www.linkedin.com/in/pranav-ai-datascience", href: "https://www.linkedin.com/in/pranav-ai-datascience" },
-  { icon: Github, label: "GitHub", value: "@pranavhadole", href: "#" },
+  { icon: Github, label: "GitHub", value: "@Pranavhadole31", href: "https://github.com/Pranavhadole31" },
   { icon: MapPin, label: "Location", value: "India · Open to remote", href: null },
 ];
 
