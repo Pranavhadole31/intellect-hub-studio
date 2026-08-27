@@ -48,7 +48,9 @@ export function Research() {
 
             <div className="mt-7 flex flex-wrap gap-2">
               <a
-                href="#"
+                href="https://www.jetir.org/view?paper=JETIR2509217"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 rounded-full bg-gradient-hero px-5 py-2.5 text-sm font-medium text-primary-foreground hover:opacity-90"
               >
                 <ExternalLink size={14} /> Read Paper
