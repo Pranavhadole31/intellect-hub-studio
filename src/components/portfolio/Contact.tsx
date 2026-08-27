@@ -30,7 +30,7 @@ export function Contact() {
             </p>
             <div className="mt-6 flex flex-wrap gap-2">
               <a
-                href="mailto:pranav.hadole@example.com"
+                href="mailto:hadolepranav12@gmail.com"
                 className="inline-flex items-center gap-2 rounded-full bg-gradient-hero px-5 py-2.5 text-sm font-medium text-primary-foreground hover:opacity-90"
               >
                 <Mail size={14} /> Send email
