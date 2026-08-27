@@ -1,5 +1,6 @@
 import { Section } from "./Section";
 import { Github, Linkedin, Mail, MapPin, FileDown } from "lucide-react";
+import resumeAsset from "@/assets/PRANAV_YOGESH_HADOLE_Resume.pdf.asset.json";
 
 const channels = [
   { icon: Mail, label: "Email", value: "hadolepranav12@gmail.com", href: "mailto:hadolepranav12@gmail.com" },
@@ -37,7 +38,8 @@ export function Contact() {
               </a>
               <a
                 id="resume"
-                href="#"
+                href={resumeAsset.url}
+                download
                 className="inline-flex items-center gap-2 rounded-full border border-border bg-card/60 px-5 py-2.5 text-sm font-medium hover:border-primary/60"
               >
                 <FileDown size={14} /> Download Resume
